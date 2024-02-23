@@ -47,4 +47,4 @@
     </td>
   </tr>
 </table>
-[![vision-friendly-dark](https://github-readme-stats.vercel.app/api/pin/?username=TuCPD-AI-ML&repo=TuCPD-AI-ML)](https://github.com/TuCPD-AI-ML/TuCPD-AI-ML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TuCPD-AI-ML&repo=vision-friendly-dark)](https://github.com/TuCPD-AI-ML/TuCPD-AI-ML)
