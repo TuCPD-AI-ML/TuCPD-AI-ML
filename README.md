@@ -32,6 +32,11 @@
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
 </p>
 
+## Repo:
+<a href="https://github.com/TuCPD-AI-ML/Computer-Vision">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TuCPD-AI-ML&repo=Computer-Vision&theme=vision-friendly-dark" />
+</a>
+
 ## Activities:
 
 <table style="width:100%;">
