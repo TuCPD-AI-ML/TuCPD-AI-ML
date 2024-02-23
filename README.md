@@ -48,3 +48,4 @@
   </tr>
 </table>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TuCPD-AI-ML&repo=vision-friendly-dark)](https://github.com/TuCPD-AI-ML)
