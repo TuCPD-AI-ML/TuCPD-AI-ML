@@ -36,6 +36,9 @@
 <a href="https://github.com/TuCPD-AI-ML/Computer-Vision">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TuCPD-AI-ML&repo=Computer-Vision&theme=vision-friendly-dark" />
 </a>
+<a href="https://github.com/TuCPD-AI-ML/Data-structure-and-Algorithm">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TuCPD-AI-ML&repo=Data-structure-and-Algorithm&theme=vision-friendly-dark" />
+</a>
 
 ## Activities:
 
